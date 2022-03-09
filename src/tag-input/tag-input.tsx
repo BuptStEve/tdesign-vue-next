@@ -1,4 +1,4 @@
-import { defineComponent, ref, computed, toRefs, nextTick } from 'vue';
+import { defineComponent, computed, toRefs, nextTick } from 'vue';
 import { CloseCircleFilledIcon } from 'tdesign-icons-vue-next';
 import { prefix } from '../config';
 import TInput, { InputValue } from '../input';
